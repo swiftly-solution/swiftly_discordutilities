@@ -22,6 +22,7 @@
 
 1. Download the newest [release](https://github.com/swiftly-solution/swiftly_discordutilities/releases).
 2. Perform a drag-and-drop installation.
+3. Go in `addons/swiftly/configs/plugins/discord.json` and configure the plugin as you want.
 
 ### Features 🧐
 
