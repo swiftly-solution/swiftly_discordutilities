@@ -37,6 +37,11 @@
 ![image](https://cdn.swiftlycs2.net/github/discordutilities/preview3.png)
 ![image](https://cdn.swiftlycs2.net/github/discordutilities/preview4.png)
 
+### TODO 😴
+
+- Server Status Embed
+- Admin Commands Logs
+
 ### Creating A Pull Request 😃
 
 1. Fork the Project
