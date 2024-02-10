@@ -29,6 +29,13 @@
 - Connect/Disconnect Logs
 - Map Change Logs
 - Game Events Logs
+- Report/Calladmin Command
+
+### Screenshots 📷
+![image](https://cdn.swiftlycs2.net/github/discordutilities/preview1.png)
+![image](https://cdn.swiftlycs2.net/github/discordutilities/preview2.png)
+![image](https://cdn.swiftlycs2.net/github/discordutilities/preview3.png)
+![image](https://cdn.swiftlycs2.net/github/discordutilities/preview4.png)
 
 ### Creating A Pull Request 😃
 
