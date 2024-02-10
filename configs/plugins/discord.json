@@ -1,0 +1,67 @@
+{
+  "WebhooksAvatarURL": "https://media.discordapp.net/attachments/979452783466000466/1168236894652469248/Swiftly_Logo.png?ex=65d23b64&is=65bfc664&hm=76203ca3660ed090348ad778961159d4db995da462eea126116ef6f0a30edb3e&=&format=webp&quality=lossless&width=433&height=433",
+  "WebhooksDateTimeFormat": "(%H:%M:%S %d/%m/%Y)",
+
+  "PlayerChatLogs": {
+      "EnablePlayerChatLogs": false,
+      "WebhookURL": "",
+      "WebhookContentMessages": {
+          "TeamChat": "`[Team Chat]` **%s**",
+          "AllChat": "`[All Chat]` **%s**"
+      }
+  },
+
+  "ConnectDisconnectLogs": {
+      "EnableConnectDisconnectLogs": false,
+      "WebhookURL": "",
+      "WebhookUsername": "Swiftly - Connect/Disconnect Logs",
+      "WebhookContentMessages":{
+          "Connect": "**%s** [`%.0f`] has **connected** on the server. `%s`",
+          "Disconnect": "**%s** [`%.0f`] has **disconnected** from the server. `%s`"
+      }
+  },
+
+  "MapLogs": {
+      "EnableMapLogs": false,
+      "WebhookURL": "",
+      "WebhookUsername": "Swiftly - Map Logs",
+      "WebhookContentMessage": "The map has been changed to `%s`."
+  },
+
+  "ReportPlayer": {
+      "EnableReportPlayerCommand": false,
+      "WebhookURL": "",
+      "WebhookUsername": "Swiftly - Report Player System",
+      "WebhookContentMessage": "<@&ROLEID>",
+      "WebhookEmbedTitle": "A new player has been reported"
+  },
+
+  "GameEventsLogs": {
+      "EnableGameEventsLogs": false,
+      "WebhookURL": "",
+      "WebhookUsername": "Swiftly - Game Events Logs",
+      "WebhooksContentMessages": {
+          "BombAbortDefuse": "%s (%s) has stopped defusing the bomb. `%s`",
+          "BombAbortPlant": "%s (%s) has stopped planting the bomb. `%s`",
+          "BombBeginDefuse": "%s (%s) is defusing the bomb. `%s`",
+          "BombBeginPlant": "%s (%s) is planting the bomb. `%s`",
+          "BombDefused": "%s (%s) defused the bomb. `%s`",
+          "BombDropped": "%s (%s) has dropped the bomb. `%s`",
+          "BombExploded": "The bomb has exploded. `%s`",
+          "BombPlanted": "%s (%s) has planted the bomb. `%s`",
+          "OnRoundStart": "A new round started! `%s`",
+          "BombPickup": "%s (%s) has picked up the bomb. `%s`"
+        }
+  },
+
+  "ChatCommandsMessages": {
+      "ReloadConfig":{
+          "ReloadCommandMessage": "{lime}[Swiftly] {default}The configuration has been {lime}reloaded{default}."
+      },
+
+      "ReportPlayer": {
+          "PlayerNotFoundMessage": "{lime}[Swiftly] {default}The player has not been {lime}found{default}.",
+          "ReportSent": "{lime}[Swiftly] {default}Your report has been sent to the {lime}staff{default}."
+      }
+  }
+}
