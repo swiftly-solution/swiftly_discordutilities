@@ -62,6 +62,10 @@
       "ReportPlayer": {
           "PlayerNotFoundMessage": "{lime}[Swiftly] {default}The player has not been {lime}found{default}.",
           "ReportSent": "{lime}[Swiftly] {default}Your report has been sent to the {lime}staff{default}."
-      }
+      },
+
+      "NoPremissions": {
+        "NoPremissionsMessage": "{lime}[Swiftly] {default}You don't have the {lime}permission {default}to use this command."
+    }
   }
 }
